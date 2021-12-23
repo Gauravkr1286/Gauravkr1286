@@ -1,7 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="160px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
 <h3 align="center">I'm a passionate CS Grad Front-End Developer from India.</h3>
-## 🙋‍♂️ About Me
+<p align="left">
+## 🙋‍♂️<B>About Me</B>
+</p>
+
 - 🔭 I’m currently pursuing my graduation in computer applications
 - 🌱 I’m currently learning **C++, Web-devdevelopment, Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
