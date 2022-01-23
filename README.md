@@ -1,9 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="160px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
-<h3 align="center">I'm a passionate CS Grad Front-End Developer from India.</h3>
-<p align="left">
+<h3 align="center">I'm a passionate CS Grad, Front-End Developer from India.</h3>
+<p align="center">
 ## 🙋‍♂️<B>About Me</B>
-</p>
+    <p align="center">
 
 - 🔭 I’m currently pursuing my graduation in computer applications
 - 🌱 I’m currently learning **C++, Web-devdevelopment, Data Structures and Algorithms.**
@@ -11,10 +11,10 @@
 - 📫 How to reach me **gk779866@gmail.com** 
 - My Portfolio : **https://gauravkr1286.github.io/GauravPortfolio.github.io/#**
 - ⚡ Fun fact **I play technology quiz very often.**
-
+<p>
 
 ## 🚀 Languages and Tools:
-<p align="left"> 
+<p align="center"> 
     <a href="https://icons8.com/icon/40669/c++"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -30,9 +30,10 @@
     <a href="https://github.com/Gauravkr1286/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gauravkr1286's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkr1286&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+    <br>
 ## 📊 My Github Stats
   <br/>
+  <p align="center">
     <a href="https://github.com/Gauravkr1286/github-readme-stats"><img alt="Gauravkr1286's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Gauravkr1286/github-readme-stats"><img alt="Gauravkr1286's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -40,14 +41,15 @@
 <br/>
 <br/>
 <a href="https://github.com/Gauravkr1286/github-readme-activity-graph"><img alt="Gauravkr1286's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gauravkr1286&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+<br>
+<br>
 ## Connect with me:
-<p align="left">
+<p align="center">
 <a href = "https://www.linkedin.com/in/gaurav-kumar-68373a202/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/gaurav._kummar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
+<br>
 ## ❤ Views and Followers
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Gauravkr1286">
 </a>
