@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently pursuing my graduation in computer applications
 - 🌱 I’m currently learning **C++, Web-devdevelopment, Data Structures and Algorithms.**
+- 👯 Future ready talent Intern @ **Microsoft**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **gk779866@gmail.com** 
 - My Portfolio : **https://gauravkr1286.github.io/GauravPortfolio.github.io/#**
