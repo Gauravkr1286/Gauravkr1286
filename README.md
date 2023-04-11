@@ -1,9 +1,9 @@
 Welcome to my page!
 ---------------------------
-Hey,!![Alt Text](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
-
+Hey,!
+---------------------------
 I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
-====================================================================================================================================
+---------------------------
 
 Aspiring Software Developer
 ---------------------------
