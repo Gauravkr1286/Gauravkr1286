@@ -1,57 +1,61 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="160px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
-<h3 align="center">I'm working on software dev. projecs. I'm developing skills in C++, frontend development, data structures, and algorithms. I'm eager to learn and get better at it. Looking for open source development.</h3>
-<p align="center">
-**🙋‍♂️<B>About Me</B>**
-    <p align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Kumar
+====================================================================================================================================
 
-- 🔭 I’m currently doing my graduation in computer applications
-- 🌱 I’m currently working on developing coding skills **C++, Web-devdevelopment, Data Structures and Algorithms.**
-- 🥅 2023 Goals: Be a better human
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **emailid.gauravkr@gmail.com** 
-- My Portfolio : **[https://gauravkr1286.github.io/GauravPortfolio.github.io/#](https://gauravkr1286.github.io/GauravPortfolio.github.io/#)**
-- ⚡ ⚡ Oneday I will make it happen
-<p>
+Aspiring Software Developer
+---------------------------
 
-## 🚀 Languages and Tools:
-<p align="center"> 
-    <a href="https://icons8.com/icon/40669/c++"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/>
-    <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"></a> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-        <br>
-        <br>
+I'm working on software dev. projecs. I'm developing skills in C++, frontend development, data structures, and algorithms. I'm eager to learn and get better at it. Looking for open source development.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Online resume](http://gauravkr1286.github.io/GauravPortfolio.github.io/#)
+* ✉️  You can contact me at [emailid.gauravkr@gmail.com](mailto:emailid.gauravkr@gmail.com)
+* 🧠  I'm learning React, Git, SVN, PostgreSQL, MongoDB, Continuous Integration and Deployment (CI/CD) and Agile methodology
+* 🤝  I'm open to collaborating on Web Development: I can work on building web applications using front-end frameworks such as React and back-end frameworks such as Node.js. Secondaly : Open Source Projects: You could contribute to open source projects that use C++ or front-end development, or help maintain and improve existing open source libraries.
+* ⚡  To sharpen my problem-solving abilities, I practise coding challenges on LeetCode on a regular basis. I have a passion for photography and editing in addition to my technical abilities, and over the years, I have honed my skills in these fields.
+
+<a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gauravkr1286?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a><a href="https://www.twitter.com/Gaurav_on_BLUE" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Gaurav_on_BLUE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=ffffff"
+/></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-<p align="center">
-    <a href="https://github.com/Gauravkr1286/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gauravkr1286's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkr1286&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <br>
-    
-## 📊 My Github Stats
-  <br/>
-  <p align="center">
-<a href="https://github.com/Gauravkr1286/github-readme-activity-graph"><img alt="Gauravkr1286's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gauravkr1286&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-      </a>
-<br>
-      
-<br>
-## Connect with me:
-<p align="center">
-<a href = "https://www.linkedin.com/in/gaurav-kumar-68373a202/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/gaurav._kummar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<br>
-## ❤ Views and Followers
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Gauravkr1286">
-</a>
-<a href="https://github.com/Gauravkr1286?tab=followers"><img src="https://img.shields.io/github/followers/Gauravkr1286?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/gauravkumar09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Gaurav.21#7946" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Gauravkr.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gaurav._kummar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gaurav-kumar-68373a202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gaurav_on_BLUE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&hide=&count_private=true&title_color=000000&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="Gauravkr1286's GitHub stats" /></a>
+
+<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkr1286&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+
+<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gauravkr1286&bg_color=ffffff&color=0f172a&line=ec4899&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Gauravkr1286" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286&langs_count=10&title_color=000000&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/gaurav.kmr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
