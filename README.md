@@ -1,6 +1,7 @@
 Welcome to my page!
 ---------------------------
-Hey,![hi](https://user-images.githubusercontent.com/84120770/231257553-dbaaaa3a-63b0-45cc-bed2-d0ab10853d1a.gif)
+Hey,!![Alt Text](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
+
 I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
 ====================================================================================================================================
 
