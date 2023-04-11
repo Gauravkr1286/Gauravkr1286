@@ -1,5 +1,5 @@
 Welcome to my page!
-I'm Gaurav, Undergard student & Frontend software developer from  New Delhi, India, currently looking for open source opportunities.
+Hey,(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
 ====================================================================================================================================
 
 Aspiring Software Developer
