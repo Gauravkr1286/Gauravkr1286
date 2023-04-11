@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Kumar
+Welcome to my page!
+I'm Gaurav, Undergard student & Frontend software developer from  New Delhi, India, currently looking for open source opportunities.
 ====================================================================================================================================
 
 Aspiring Software Developer
@@ -27,7 +28,6 @@ src="https://img.shields.io/twitter/follow/Gaurav_on_BLUE?logo=twitter&style=for
 src="https://img.shields.io/badge/linkedin-hui-blue/followers/gaurav-kumar-68373a202/?logo=linkedin&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
