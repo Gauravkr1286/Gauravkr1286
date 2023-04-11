@@ -1,6 +1,6 @@
-Welcome to my page!
+
 ---------------------------
-Hey,!
+Hey,!Welcome to my page!
 ---------------------------
 I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
 ---------------------------
