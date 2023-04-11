@@ -10,13 +10,21 @@ I'm working on software dev. projecs. I'm developing skills in C++, frontend dev
 * 🖥️  See my portfolio at [Online resume](http://gauravkr1286.github.io/GauravPortfolio.github.io/#)
 * ✉️  You can contact me at [emailid.gauravkr@gmail.com](mailto:emailid.gauravkr@gmail.com)
 * 🧠  I'm learning React, Git, SVN, PostgreSQL, MongoDB, Continuous Integration and Deployment (CI/CD) and Agile methodology
-* 🤝  I'm open to collaborating on Web Development: I can work on building web applications using front-end frameworks such as React and back-end frameworks such as Node.js. Secondaly : Open Source Projects: You could contribute to open source projects that use C++ or front-end development, or help maintain and improve existing open source libraries.
-* ⚡  To sharpen my problem-solving abilities, I practise coding challenges on LeetCode on a regular basis. I have a passion for photography and editing in addition to my technical abilities, and over the years, I have honed my skills in these fields.
+* 🤝  I'm open to collaborating on Web Development: I can work on building web applications using front-end frameworks such as React and back-end frameworks such as Node.js. 
+* open to work on projects that use C++ or front-end development, help maintain and improve existing open source libraries.
+* ⚡  To sharpen my problem-solving abilities, I practise coding challenges on LeetCode on a regular basis. 
+* I have a passion for photography and editing in addition to my technical abilities, and over the years, I have honed my skills in these fields.
 
 <a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gauravkr1286?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a><a href="https://www.twitter.com/Gaurav_on_BLUE" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gauravkr1286?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
+
+<a href="[https://www.twitter.com/Gaurav_on_BLUE](https://www.linkedin.com/in/gaurav-kumar-68373a202/)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Gaurav_on_BLUE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=ffffff"
 /></a>
+
+
+<a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gauravkr1286?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
 
 ### Skills
 
