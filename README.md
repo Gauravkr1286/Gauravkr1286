@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav</h1>
 <h3 align="center">I'm working on software dev. projecs. I'm developing skills in C++, frontend development, data structures, and algorithms. I'm eager to learn and get better at it. Looking for open source development.</h3>
 <p align="center">
-## 🙋‍♂️<B>About Me</B>
+**🙋‍♂️<B>About Me</B>**
     <p align="center">
 
 - 🔭 I’m currently doing my graduation in computer applications
