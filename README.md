@@ -1,5 +1,6 @@
 Welcome to my page!
-Hey,{'https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'}I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
+Hey,![hi](https://user-images.githubusercontent.com/84120770/231257553-dbaaaa3a-63b0-45cc-bed2-d0ab10853d1a.gif)
+I'm Gaurav, Undergard student & Frontend software developer, currently looking for open source opportunities.
 ====================================================================================================================================
 
 Aspiring Software Developer
