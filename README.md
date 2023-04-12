@@ -23,9 +23,6 @@ src="https://img.shields.io/twitter/follow/Gaurav_on_BLUE?logo=twitter&style=for
 /></a>
 
 
-<a href="https://www.linkedin.com/in/gaurav-kumar-68373a202/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/linkedin-hui-blue/followers/gaurav-kumar-68373a202/?logo=linkedin&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
-
 ### Skills
 
 <p align="left">
