@@ -1,65 +1,51 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurav Kumar
----------------------------
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
-Aspiring Software Developer
----------------------------
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+GAURAVKUMAR;I'm+from+India;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
-I'm working on software dev. projecs. I'm developing skills in C++, frontend development, data structures, and algorithms. I'm eager to learn and get better at it. Looking for open source development.
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286-laghjaj&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286-laghjaj&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauravkr1286-laghjaj&theme=github_dark&show_icons=true" />
+  </a>
+</div> 
+   
+<br>
+<br>
+  
+<div style="display: inline_block">
+  <p align="center">
+	<a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=js,vue,nodejs,tailwind,php,laravel,java,kotlin,flutter,mysql,firebase,python,git,figma" />
+    </a>
+  </p>
+</div>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Online resume](http://gauravkr1286.github.io/GauravPortfolio.github.io/#)
-* ✉️  You can contact me at [emailid.gauravkr@gmail.com](mailto:emailid.gauravkr@gmail.com)
-* 🧠  I'm learning React, Git, SVN, PostgreSQL, MongoDB, Continuous Integration and Deployment (CI/CD) and Agile methodology
-* 🤝  I'm open to collaborating on Web Development: I can work on building web applications using front-end frameworks such as React and back-end frameworks such as Node.js. 
-* open to work on projects that use C++ or front-end development, help maintain and improve existing open source libraries.
-* ⚡  To sharpen my problem-solving abilities, I practise coding challenges on LeetCode on a regular basis. 
-* I have a passion for photography and editing in addition to my technical abilities, and over the years, I have honed my skills in these fields.
+<br>
+<br>
+  
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gaurav-kumar-68373a202/"><img title="https://www.linkedin.com/in/gaurav-kumar-68373a202/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+	<a href="https://www.instagram.com/gaurav._kummar/"><img title="https://www.instagram.com/gaurav._kummar/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+	<a href="https://www.facebook.com/profile.php?id=100013091503491"><img title="facebook.com/Gaurav Kumar" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+    </a>
+	<a href="https://discord.com/users/Gaurav.21#7946"><img title="discord.com/users/Gaurav.21#7946" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+  </p>
+</div>
 
-<a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gauravkr1286?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
-<a href="[https://www.twitter.com/Gaurav_on_BLUE](https://www.linkedin.com/in/gaurav-kumar-68373a202/)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Gaurav_on_BLUE?logo=twitter&style=for-the-badge&color=ec4899&labelColor=ffffff"
-/></a>
-
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/gauravkumar09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Gaurav.21#7946" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Gauravkr1286" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Gauravkr.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gaurav._kummar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gaurav-kumar-68373a202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gaurav_on_BLUE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&hide=&count_private=true&title_color=000000&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="Gauravkr1286's GitHub stats" /></a>
-
-<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravkr1286&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
-<a href="http://www.github.com/Gauravkr1286"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gauravkr1286&bg_color=ffffff&color=0f172a&line=ec4899&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Gauravkr1286" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286&langs_count=10&title_color=000000&text_color=0f172a&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/gaurav.kmr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![Snake animation](https://github.com/Gauravkr1286/Gauravkr1286/blob/output/github-contribution-grid-snake.svg)
