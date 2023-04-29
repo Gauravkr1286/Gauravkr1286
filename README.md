@@ -23,7 +23,7 @@
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=js,vue,nodejs,tailwind,php,laravel,java,kotlin,flutter,mysql,firebase,python,git,figma" />
+      <img align="center" src="https://skillicons.dev/icons?i=js,cpp,nodejs,html,css,bootstrap,react,tailwind,mongodb,c,git,figma,firebase" />
     </a>
   </p>
 </div>
