@@ -36,7 +36,7 @@
     <a href="https://www.linkedin.com/in/gaurav-kumar-68373a202/"><img title="https://www.linkedin.com/in/gaurav-kumar-68373a202/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 	
-    </a>
+
   </p>
 </div>
 
