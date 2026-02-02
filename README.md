@@ -41,12 +41,13 @@ I love turning real-world problems into clean, interactive web experiences and I
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gauravkr1286&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Gauravkr1286&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
