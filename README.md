@@ -97,16 +97,24 @@
 <a href="https://linkedin.com/in/gaurav-kumar1286" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://ca.pinterest.com/gk779866/screen-saver/" target="_blank">
+  <img src=https://img.shields.io/badge/pinterest%231E77B5.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
+</a>  
+    
 </div>  
   
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+## 📊 GitHub Stats  
 
-<br/>  
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180"
+  />
+</div>
 
 
 ## Recent Blog Posts  
