@@ -59,17 +59,18 @@ I love converting real-world problems into **simple, interactive, and scalable w
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravkr1286&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gauravkr1286&theme=gotham)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gauravkr1286&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286&theme=gotham&layout=compact&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkr1286&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gauravkr1286&theme=onedark&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gauravkr1286&theme=tokyonight&margin-w=15&margin-h=15)
 
 ---
 
