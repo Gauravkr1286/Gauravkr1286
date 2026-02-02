@@ -106,23 +106,6 @@
 
 <br/>  
 
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight" />
-
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-![My Clicks](https://pin.it/dZFAk0QKw)  
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Gauravkr1286&&style=flat-square" align="center" />
 </div>  
