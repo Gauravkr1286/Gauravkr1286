@@ -87,21 +87,27 @@
 
 
 ## Connect with me  
+
 <div align="center">
+
 <a href="https://github.com/Gauravkr1286" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
+
 <a href="https://instagram.com/gaurav._kummar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
+
 <a href="https://linkedin.com/in/gaurav-kumar1286" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  <a href="https://ca.pinterest.com/gk779866/screen-saver/" target="_blank">
-  <img src=https://img.shields.io/badge/pinterest%231E77B5.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
-</a>  
-    
-</div>  
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
+<a href="https://ca.pinterest.com/gk779866/screen-saver/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="pinterest" />
+</a>
+
+</div>
+
   
 
 <br/>  
@@ -116,5 +122,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
