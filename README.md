@@ -107,14 +107,10 @@
 <br/>  
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="180"
-  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Gauravkr1286&show_icons=true&theme=tokyonight" />
+
 
 
 ## Recent Blog Posts  
