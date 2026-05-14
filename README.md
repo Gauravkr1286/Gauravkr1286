@@ -1,13 +1,11 @@
 ### **<div align="center">I'm Gaurav, full-stack developer 👨‍💻 Studying Computer Science🚀</div>**  
   
 
-- 🔭 I’m currently working on Capstone Project at Langara College   
-  
+- 🔭 Currently building AI-powered and full-stack products
 
-- 🌱 I’m currently learning DSA, Security & System Design  
+- 🌱 Mastering DSA, ML/AI, System Design, and advanced concepts in web & software development
   
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🤝 Open to collaborating on mobile, web, and AI-driven products — let’s connect!
   
 
 <br/>  
